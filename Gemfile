@@ -53,6 +53,9 @@ gem 'stripe', '1.16.1'
 # Use figaro to hide secret keys
 gem 'figaro', '1.0.0'
 
+#use paperclip for image uploads
+gem 'paperclip', '4.2.1'
+
 # Use unicorn as the app server
 # gem 'unicorn'
 
