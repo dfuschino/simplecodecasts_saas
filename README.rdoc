@@ -1,29 +1,15 @@
 == README
 
 Coder Manual Project Application
-Subscription-based web application
-http://codermanual.com
+Subscription-based web application for http://codermanual.com course
 
-Things you may want to cover:
+This community website is a test Ruby on Rails project for the codermanual.com course, May/June 2015. Course and project features:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+-User registrations via Devise gem
+-Bootstrap styling
+-Basic and Pro memberships (payments handled via Stripe gem)
+-Heroku 'production' hosting
+-github repo
+-user profile photos via paperclip gem
+-contact form
+-community browsing (only pro members see contact info)
