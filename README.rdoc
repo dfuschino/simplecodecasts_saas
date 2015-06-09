@@ -3,13 +3,15 @@
 Coder Manual Project Application
 Subscription-based web application for http://codermanual.com course
 
+---
+
 This community website is a test Ruby on Rails project for the codermanual.com course, May/June 2015. Course and project features:
 
--User registrations via Devise gem
--Bootstrap styling
--Basic and Pro memberships (payments handled via Stripe gem)
--Heroku 'production' hosting
--github repo
--user profile photos via paperclip gem
--contact form
--community browsing (only pro members see contact info)
+-  User registrations via Devise gem
+-  Bootstrap styling
+-  Basic and Pro memberships (payments handled via Stripe gem)
+-  Heroku 'production' hosting
+-  github repo
+-  user profile photos via paperclip gem
+-  contact form
+-  community browsing (only pro members see contact info)
